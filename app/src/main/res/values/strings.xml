@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+
+    <string name="qst1">Является ли число 1 простым?</string>
+    <string name="qst2">Является ли число 3 простым?</string>
+    <string name="qst3">Является ли число 8 простым?</string>
+    <string name="qst4">Является ли число 12 простым?</string>
+    <string name="qst5">Является ли число 17 простым?</string>
+    <string name="qst6">Является ли число 2 простым?</string>
+    <string name="trueAsnwer">Верно</string>
+    <string name="falseAnswer">Неверно</string>
+    <string name="Developers">Блошкин, Данилов, Сомов</string>
+
+    <string name="help_button"> Помощь</string>
+    <string name="resume_betton">Возврат</string>
+    <string name="help_message"> Вы уверены, что не справитесь самостоятельно?</string>
+    <string name="advice1"> В следующий раз попробуйте ответить самостоятельно</string>
+    <string name="advice2"> Воспользуйтесь помощью повторно...</string>
+    <string name="help_one"> Число 1 является не простым</string>
+    <string name="help_two"> Конечно же, число 3 простое!</string>
+    <string name="help_three"> 8 совсем не простое число...</string>
+    <string name="help_four"> Так, на заметку, просто число имеет ровно два делителя, а 12 не простое!</string>
+    <string name="help_five">Само собой, число 17 простое...</string>
+    <string name="help_six">Пора уже запомнить, 2 простое число!</string>
+
+</resources>
